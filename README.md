@@ -1,5 +1,5 @@
 # codeWars_Classes-Prototypes
-7 kyu https://www.codewars.com/kata/santaclausable-interface
+** 7 kyu https://www.codewars.com/kata/santaclausable-interface
 7 kyu https://www.codewars.com/kata/javascript-class-like-objects
 7 kyu https://www.codewars.com/kata/the-newest-function
 7 kyu https://www.codewars.com/kata/array-mappings
